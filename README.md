@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NobleSparky
 - 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning basic python
-- 💞️ I’m looking to collaborate on nothing as of right now
+- 💞️ I’m looking to help trouble shoot any code
 - 📫 How to reach me: Can't.
 - ⚡ Fun fact: I actually love being outsid-
 - ⛪ I am actually a follower of Jesus
