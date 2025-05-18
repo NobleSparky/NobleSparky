@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning basic python
 - 💞️ I’m looking to help trouble shoot any code
 - 📫 How to reach me: Can't.
-- ⚡ Fun fact: I actually love being outsid-
+- ⚡ Fun fact: I actually love being outside
 - ⛪ I am actually a follower of Jesus
